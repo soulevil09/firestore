@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632494608853",
+    "project_id": "produtos-7313c",
+    "storage_bucket": "produtos-7313c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632494608853:android:0035242ec6d134bd366d5c",
+        "android_client_info": {
+          "package_name": "br.edu.fatecpg.produtos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmfaELltj3wKhA1yV5zyjMmKfh4Ul24Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
